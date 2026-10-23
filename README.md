@@ -77,13 +77,6 @@ I'm a self-taught engineer who enjoys owning a product end to end, from the data
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-### GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=i-montes&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-montes&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-</p>
-
 ---
 
 <p align="center"><sub>Building technology that helps independent journalism stay independent.</sub></p>
