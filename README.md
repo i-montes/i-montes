@@ -39,7 +39,6 @@ I'm a self-taught engineer who enjoys owning a product end to end, from the data
 | --- | --- | --- |
 | [**legajo**](https://github.com/i-montes/legajo) | Desktop app for analyzing a newsroom's WordPress archive: downloads it, guides stratified sampling and annotation, then runs local models (spaCy, GLiNER-relex) to extract entities and relationships into a knowledge graph. | Rust · Tauri · TypeScript · Python |
 | [**aihub-lsv**](https://github.com/i-montes/aihub-lsv) | AI platform for journalists and content creators: smart text editor, social thread and newsletter generators, multi-tenant organizations with roles, and an analytics dashboard. | Next.js · Supabase |
-| [**aifocus.sh**](https://github.com/aifocus-sh/aifocus-sh-ui) | Open-source AI toolkit for digital media: article drafting, X threads, SEO metadata and charts, running Llama models locally via Ollama. | Next.js · AI SDK |
 
 ### Tech stack
 
